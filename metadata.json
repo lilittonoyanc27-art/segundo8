@@ -1,0 +1,6 @@
+{
+  "name": "Palabras y significados — Բառերը և դրանց իմաստները",
+  "description": "Իսպաներենի 7-րդ դասարանի քննական վարժություններ և բացատրություններ հայերեն թարգմանությամբ ու պատասխաններով",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
